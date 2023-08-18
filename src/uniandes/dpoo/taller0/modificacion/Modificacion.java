@@ -5,7 +5,7 @@ import uniandes.dpoo.taller0.procesamiento.LoaderOlimpicos;
 
 public class Modificacion {
 	/*
-	 * La función carga el archivo y busca el pais con mas medallistas.
+	 * La función carga el archivo y busca el pais mas medallistas.
 	 */
 	public static void main(String[] args) {
 		try {
